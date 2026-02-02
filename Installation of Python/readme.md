@@ -1,4 +1,4 @@
-# Installation of Python
+# Experiment - 1 - Installation of Python
 
 ### Aim:
 To study the basics of Python programming language, understand the Python execution environment, install Python and Jupyter Notebook using Anaconda distribution, and explore various Python IDEs including Google Colab.

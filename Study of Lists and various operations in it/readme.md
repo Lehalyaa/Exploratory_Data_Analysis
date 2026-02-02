@@ -1,4 +1,4 @@
-# List and Various Operations in it
+# Experiment - 4 - List and Various Operations in it
 Python lists are versatile, ordered data structures that allow for the storage of mixed data types and dynamic resizing during runtime. Unlike static arrays, lists are mutable, meaning their elements can be modified, added, or removed in-place after creation. This experiment explores fundamental access techniques, specifically zero-based indexing and slicing, to retrieve data efficiently.
 ### Aim:
 To study lists in Python and various operations in it.
